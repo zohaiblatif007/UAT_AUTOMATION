@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CreateScheduleAppointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>498f81f4-7c10-464a-965c-e335d93e89e1</testCaseGuid>
+</TestCaseEntity>

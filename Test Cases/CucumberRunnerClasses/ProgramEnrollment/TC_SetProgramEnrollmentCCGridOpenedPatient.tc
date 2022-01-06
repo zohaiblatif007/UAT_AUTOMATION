@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SetProgramEnrollmentCCGridOpenedPatient</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c80936c4-e969-4106-9ea0-1e2c78ae54c4</testCaseGuid>
+</TestCaseEntity>

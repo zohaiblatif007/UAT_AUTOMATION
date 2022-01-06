@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C7F1A4110186102B858ACBB6FFFBF0B4",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_PrintByWIPStatus_ProvideCarePlan",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

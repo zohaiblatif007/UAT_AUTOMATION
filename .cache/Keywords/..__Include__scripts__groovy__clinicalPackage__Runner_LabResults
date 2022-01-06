@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E204CE2B36003FDFEBB33EEC62A564F8",
+  "keywordClasses": [
+    {
+      "name": "clinicalPackage.Runner_LabResults",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

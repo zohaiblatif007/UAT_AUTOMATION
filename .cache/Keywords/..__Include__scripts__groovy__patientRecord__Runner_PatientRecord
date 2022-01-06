@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "117AEB7C477149F5AC76BC395C3AAFCE",
+  "keywordClasses": [
+    {
+      "name": "patientRecord.Runner_PatientRecord",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

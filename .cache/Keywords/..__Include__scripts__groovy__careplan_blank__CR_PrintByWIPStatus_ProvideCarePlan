@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A238F04DE37F98715F4E6E5CFF1CD586",
+  "keywordClasses": [
+    {
+      "name": "careplan_blank.CR_PrintByWIPStatus_ProvideCarePlan",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

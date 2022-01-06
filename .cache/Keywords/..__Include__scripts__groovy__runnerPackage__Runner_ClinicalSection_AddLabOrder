@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8EDAAC8B726800703DCE400761E35C76",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_ClinicalSection_AddLabOrder",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

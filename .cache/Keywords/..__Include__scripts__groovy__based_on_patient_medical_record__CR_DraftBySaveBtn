@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "116013448A94EE0FD6C8B4A1575C462F",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_DraftBySaveBtn",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

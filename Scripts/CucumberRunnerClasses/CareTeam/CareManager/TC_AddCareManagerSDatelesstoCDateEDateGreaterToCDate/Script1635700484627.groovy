@@ -1,0 +1,7 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import patientGrid.Runner_CareGaps
+
+import runnerPackage.Runner_CareTeam_CareManager_AddCareManagerSDatelesstoCDateEDateGreaterToCDate
+
+CucumberKW.runWithCucumberRunner(Runner_CareTeam_CareManager_AddCareManagerSDatelesstoCDateEDateGreaterToCDate.class)
+

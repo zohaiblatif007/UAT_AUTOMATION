@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "4BB65896B2F7AB17B787DD2AB0373AF2",
+  "keywordClasses": [
+    {
+      "name": "groovypackage.Stringtext",
+      "keywordMethods": [
+        {
+          "name": "planetext",
+          "parameters": [
+            {
+              "name": "text",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

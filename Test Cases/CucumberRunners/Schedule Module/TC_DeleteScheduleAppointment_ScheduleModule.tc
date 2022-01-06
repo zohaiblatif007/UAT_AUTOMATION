@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteScheduleAppointment_ScheduleModule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e60ebd6-d076-4408-bca7-f20106de5c60</testCaseGuid>
+</TestCaseEntity>

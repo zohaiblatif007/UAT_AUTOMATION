@@ -1,0 +1,5 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
+import patientGrid.Runner_PatientGrid_LeftFilters
+
+CucumberKW.runWithCucumberRunner(Runner_PatientGrid_LeftFilters.class)

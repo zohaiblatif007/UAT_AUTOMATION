@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8B7C8E6C1FC48448CA6182B36106C702",
+  "keywordClasses": [
+    {
+      "name": "careplan_blank.CR_ExportByWIPStatus",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,7 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import patientGrid.Runner_CareGaps
+
+import runnerPackage.Runner_CreateTaskWeeklyReccurence
+
+CucumberKW.runWithCucumberRunner(Runner_CreateTaskWeeklyReccurence.class)
+

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "91A2F34E2FCE4F5699B35DA501F31B03",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_PrintByDraftStatus_ProvideCarePlan",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

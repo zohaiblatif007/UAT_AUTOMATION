@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "52E8E6922EDE4792C496E8C035AA93B6",
+  "keywordClasses": [
+    {
+      "name": "patientGrid.SD_PatientGrid_ScheduleTab",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

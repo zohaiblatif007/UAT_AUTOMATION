@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CreateCareGapTaskWeeklyRecurrence</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f041c3e2-6cdf-4fdc-8ecf-77ee19b62acc</testCaseGuid>
+</TestCaseEntity>

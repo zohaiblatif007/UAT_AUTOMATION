@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E2E5B58E22C664DCBD9D20C0AFFEF73A",
+  "keywordClasses": [
+    {
+      "name": "global_search_patient.CR_SearchByMRN",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

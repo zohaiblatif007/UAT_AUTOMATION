@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CreateNewPatient</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df51b0c3-4373-43ef-8959-9f810a585225</testCaseGuid>
+</TestCaseEntity>

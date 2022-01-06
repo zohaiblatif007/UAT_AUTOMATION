@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0F53144F0DAC265A19EE62090469D6AE",
+  "keywordClasses": [
+    {
+      "name": "existing_careplans.CR_ExistingDraft",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

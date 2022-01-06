@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "371BC626096AE74D1C4D236DFEA4A3A7",
+  "keywordClasses": [
+    {
+      "name": "patientgrid_leftfilters.CR_Enrollment",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

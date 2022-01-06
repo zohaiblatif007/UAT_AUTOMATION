@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "DA7A00D729D267B53EA8D0C4CB8BE6B6",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_ExportByWIPStatus",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

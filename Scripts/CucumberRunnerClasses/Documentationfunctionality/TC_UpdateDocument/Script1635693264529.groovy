@@ -1,0 +1,7 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
+
+import runnerPackage.Runner_DocumentationFunctionality_UpdateDocument
+
+CucumberKW.runWithCucumberRunner(Runner_DocumentationFunctionality_UpdateDocument.class)
+

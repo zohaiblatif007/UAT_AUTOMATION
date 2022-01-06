@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CreatAppointmentfromCCGrid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc356f06-1986-44c3-a5a4-2031561f52cc</testCaseGuid>
+</TestCaseEntity>

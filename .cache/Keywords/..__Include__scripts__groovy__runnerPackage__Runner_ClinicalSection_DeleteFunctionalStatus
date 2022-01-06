@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A35E30BB579191A524E1AEC34A8D462B",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_ClinicalSection_DeleteFunctionalStatus",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

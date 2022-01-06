@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_EditCarePhysicianSDateLesstoCDateEDateLessToCDate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02d1223d-11f7-43be-a932-7e329e5e7f5a</testCaseGuid>
+</TestCaseEntity>

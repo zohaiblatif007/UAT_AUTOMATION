@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "83D65DE74900454C1F84DE5FE45E07A0",
+  "keywordClasses": [
+    {
+      "name": "clinicalPackage.Runner_ProcedureResults",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

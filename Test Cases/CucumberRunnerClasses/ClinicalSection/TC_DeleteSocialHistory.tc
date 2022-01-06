@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteSocialHistory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac23a1e6-dc0e-4e26-ab5c-212f14af9368</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9B2C6DA1ED109016D1840AB029D2F667",
+  "keywordClasses": [
+    {
+      "name": "patientgrid_leftfilters.CR_Facility",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

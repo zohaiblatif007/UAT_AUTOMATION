@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B4C5347D437D5EC9294237B34FE12603",
+  "keywordClasses": [
+    {
+      "name": "clinicalPackage.Runner_LabOrder",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

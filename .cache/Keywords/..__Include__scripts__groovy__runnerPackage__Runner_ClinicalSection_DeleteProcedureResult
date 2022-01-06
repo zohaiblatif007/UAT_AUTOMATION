@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8078E0DE7C7E5D3C66CEF44D213F1D6B",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_ClinicalSection_DeleteProcedureResult",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

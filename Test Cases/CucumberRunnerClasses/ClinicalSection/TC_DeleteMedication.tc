@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteMedication</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1cf86d32-a2f4-40ef-91f0-e33753037b85</testCaseGuid>
+</TestCaseEntity>

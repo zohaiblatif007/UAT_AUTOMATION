@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "19865CB8D67C249D71D826E22B25CD96",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_Assessment_Ashtma",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

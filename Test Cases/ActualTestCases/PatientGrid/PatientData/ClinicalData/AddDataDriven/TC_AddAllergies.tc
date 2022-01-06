@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddAllergies</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb1c92e1-d477-435e-983c-02384bad2abe</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d2f94706-3962-4f87-b507-e72735aea8e2</id>
+      <masked>false</masked>
+      <name>alertText</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce5133b6-9ad2-4858-ab6d-3513da55464f</id>
+      <masked>false</masked>
+      <name>Allergy</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b1097360-5f6d-45d1-9629-db458094bc78</id>
+      <masked>false</masked>
+      <name>Reaction</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca96c294-8710-42f1-bf2f-77ee008d009f</id>
+      <masked>false</masked>
+      <name>StartDate</name>
+   </variable>
+</TestCaseEntity>

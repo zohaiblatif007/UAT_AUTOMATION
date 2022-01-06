@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SearchByMRN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6bb7ab5-6d57-45c0-a894-8e9207867590</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dcf3f1fa-43e2-4951-b692-2a513c4357a8</id>
+      <masked>false</masked>
+      <name>SearchPatient</name>
+   </variable>
+</TestCaseEntity>

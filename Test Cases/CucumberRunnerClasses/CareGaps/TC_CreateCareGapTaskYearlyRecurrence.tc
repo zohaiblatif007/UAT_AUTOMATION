@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CreateCareGapTaskYearlyRecurrence</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91351ff8-e667-419e-b5a9-f788290602e4</testCaseGuid>
+</TestCaseEntity>

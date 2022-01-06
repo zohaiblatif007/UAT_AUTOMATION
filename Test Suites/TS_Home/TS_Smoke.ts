@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Smoke</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>7c412ff2-bcd8-4e06-afa2-d95a97ca0db9</testSuiteGuid>
+   <testCaseLink>
+      <guid>5935e87a-90c5-4b09-bee7-95fa157c2b83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Utility_Functions/UF_OpenApplication</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>93aa0047-d5cd-4a11-a093-632252d17af1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_CMRData/TD_OpenApp</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>93aa0047-d5cd-4a11-a093-632252d17af1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SiteUrl</value>
+         <variableId>7e169830-8b7b-46f3-8b4c-ff359831c73b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fa7d039d-9f71-4ebe-a06b-64426836eb08</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Utility_Functions/UF_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>dda6f7f1-da98-4519-a486-21d0ca29e99c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_CMRData/TD_Login</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>dda6f7f1-da98-4519-a486-21d0ca29e99c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>a6be4e86-2f35-4a5c-8749-6a75eb5b7e94</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>dda6f7f1-da98-4519-a486-21d0ca29e99c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>b90c7e1b-b8db-4728-b1c8-2fb0c8a7a27a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>85aa4d7f-29bc-434e-bb51-b11f5420136b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Utility_Functions/UF_NavigateToCarePlan</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>eca34d49-6879-443a-8873-e39f092a3f8f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_CMRData/TD_Search</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>eca34d49-6879-443a-8873-e39f092a3f8f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Search_Patients</value>
+         <variableId>649bcddb-b0d4-4ee7-967e-4a39e6572714</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>085b577c-ce8c-4d46-9b31-a82139eb77c6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ActualTestCases/PatientGrid/LeftFilters/TC_Multiple_Facility_Filters</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6fdb8519-341d-4985-9de5-6c74f88f032a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_CMRData/TD_LeftFilters</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>6fdb8519-341d-4985-9de5-6c74f88f032a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Facility</value>
+         <variableId>cde00752-142d-427c-8754-f27282e74ca3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f046a625-61db-451b-a71a-3a1fda41304f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Utility_Functions/UF_ComponentSetting/UF_RandomInputFunction/UF_FirstName</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>eb164bcf-d75b-4b4f-8409-7309043a2f47</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_CMRData/TD_Assessment</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>eb164bcf-d75b-4b4f-8409-7309043a2f47</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>751fd269-be85-4034-a790-4311612eb8fc</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>21bcf08e-77ec-459f-a593-1c2481c27904</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Utility_Functions/UF_ComponentSetting/UF_RandomInputFunction/UF_HomePhone</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>db459191-e162-4652-9096-795d5bcaff66</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_CMRData/TD_Assessment</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>db459191-e162-4652-9096-795d5bcaff66</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HomePhone</value>
+         <variableId>c858f2a8-cec8-4000-8c42-c54a06938719</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>865709b5-c5ce-4b92-9a0b-2f25141021a1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Utility_Functions/UF_ComponentSetting/UF_RandomInputFunction/UF_LastName</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>48eb4186-0267-4677-8c22-a7c1a98a7691</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_CMRData/TD_Assessment</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>48eb4186-0267-4677-8c22-a7c1a98a7691</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>7f65c0f1-7e40-4104-ba42-8ad5b6d6dc5b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e344035b-250e-4891-af6d-9642b8462391</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Utility_Functions/UF_ComponentSetting/UF_RandomInputFunction/UF_MobilePhone</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>724aa2f8-ba0a-4371-aebd-3f826dfdadce</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_CMRData/TD_Assessment</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>724aa2f8-ba0a-4371-aebd-3f826dfdadce</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MobilePhone</value>
+         <variableId>69bfae28-a733-42b6-a718-d5d27dc53f79</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

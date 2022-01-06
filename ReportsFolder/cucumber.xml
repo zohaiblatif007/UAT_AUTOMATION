@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="11" time="714.848516">
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Based On Patient Medical Report" time="53.913477">
+<system-out><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................passed
+Then I am on PWB............................................................passed
+And I click on care plan tab................................................passed
+And I click on add new care plan button.....................................passed
+And I click on basedonpatientmedicalrecord..................................passed
+Then I should see patient data on care plan.................................passed
+When I enter title TestingPatient...........................................passed
+And I click on save and close button........................................passed
+Then I should see success message...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Verify Approve Status Function Using Save Button" time="66.108491">
+<system-out><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................passed
+Then I am on PWB............................................................passed
+And I click on care plan tab................................................passed
+And I click on add new care plan button.....................................passed
+And I click on basedonpatientmedicalrecord..................................passed
+Then I should see patient data on care plan.................................passed
+And I should see intial status as New on CP header..........................passed
+When I enter title ApprovedPatient..........................................passed
+And I select work in progress as no.........................................passed
+And I click on save button..................................................passed
+Then I should see success message...........................................passed
+And I should see patient data on care plan..................................passed
+And I should see status as Draft on CP header...............................passed
+When I click on saveapprove button..........................................passed
+Then I should see alert popup...............................................passed
+And I click on proceed button...............................................passed
+And I should see approve success message....................................passed
+When I click on title from care plan grid...................................passed
+Then I should see patient data on care plan.................................passed
+And I should see patient data as read only..................................passed
+And I should see approval status as Approved on CP header...................passed
+]]></system-out>
+</testcase>
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Verify Approve Status Function Using Save &amp; Close Button" time="72.830894">
+<system-out><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................passed
+Then I am on PWB............................................................passed
+And I click on care plan tab................................................passed
+And I click on add new care plan button.....................................passed
+And I click on basedonpatientmedicalrecord..................................passed
+Then I should see patient data on care plan.................................passed
+And I should see intial status as New on CP header..........................passed
+When I enter title ApprovedPatient..........................................passed
+And I select work in progress as no.........................................passed
+And I click on save and close button........................................passed
+Then I should see success message...........................................passed
+And I should see patient data on care plan..................................passed
+When I click on title from care plan grid...................................passed
+Then I should see patient data of draft status..............................passed
+And I should see status as Draft on CP header...............................passed
+When I click on saveapprove button..........................................passed
+Then I should see alert popup...............................................passed
+And I click on proceed button...............................................passed
+And I should see approve success message....................................passed
+When I click on title from care plan grid...................................passed
+Then I should see patient data on care plan.................................passed
+And I should see patient data as read only..................................passed
+And I should see approval status as Approved on CP header...................passed
+]]></system-out>
+</testcase>
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Verify Draft status function using save button" time="61.629345">
+<system-out><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................passed
+Then I am on PWB............................................................passed
+And I click on care plan tab................................................passed
+And I click on add new care plan button.....................................passed
+And I click on basedonpatientmedicalrecord..................................passed
+Then I should see patient data on care plan.................................passed
+And I should see intial status as New on CP header..........................passed
+When I enter title DraftPatient.............................................passed
+And I select work in progress as no.........................................passed
+And I click on save button..................................................passed
+Then I should see success message...........................................passed
+And I should see patient data on care plan..................................passed
+And I should see patient data of draft status...............................passed
+And I should see status as Draft on CP header...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Verify draft status function using save &amp; close button" time="64.58529">
+<system-out><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................passed
+Then I am on PWB............................................................passed
+And I click on care plan tab................................................passed
+And I click on add new care plan button.....................................passed
+And I click on basedonpatientmedicalrecord..................................passed
+Then I should see patient data on care plan.................................passed
+And I should see intial status as New on CP header..........................passed
+When I enter title DraftPatient.............................................passed
+And I select work in progress as no.........................................passed
+And I click on save and close button........................................passed
+Then I should see success message...........................................passed
+When I click on title from care plan grid...................................passed
+Then I should see patient data of draft status..............................passed
+And I should see patient data on care plan..................................passed
+And I should see status as Draft on CP header...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Verify WIP status function using save button" time="68.404071">
+<system-out><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................passed
+Then I am on PWB............................................................passed
+And I click on care plan tab................................................passed
+And I click on add new care plan button.....................................passed
+And I click on basedonpatientmedicalrecord..................................passed
+Then I should see patient data on care plan.................................passed
+And I should see intial status as New on CP header..........................passed
+When I enter title WIPPatient...............................................passed
+And I click on save button..................................................passed
+Then I should see success message...........................................passed
+And I should see patient data on care plan..................................passed
+And I should see progress status as WIP on CP header........................passed
+And I close care plan popup.................................................passed
+When I click on title from care plan grid...................................passed
+Then I should see patient data on care plan.................................passed
+And I should see patient data of WIP status.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Verify WIP status function using save &amp; close button" time="63.703261">
+<system-out><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................passed
+Then I am on PWB............................................................passed
+And I click on care plan tab................................................passed
+And I click on add new care plan button.....................................passed
+And I click on basedonpatientmedicalrecord..................................passed
+Then I should see patient data on care plan.................................passed
+And I should see intial status as New on CP header..........................passed
+When I enter title WIPPatient...............................................passed
+And I click on save and close button........................................passed
+Then I should see success message...........................................passed
+When I click on title from care plan grid...................................passed
+Then I should see patient data on care plan.................................passed
+And I should see patient data of WIP status.................................passed
+And I should see progress status as WIP on CP header........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Verify reject status function using save button" time="71.232765">
+<system-out><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................passed
+Then I am on PWB............................................................passed
+And I click on care plan tab................................................passed
+And I click on add new care plan button.....................................passed
+And I click on basedonpatientmedicalrecord..................................passed
+Then I should see patient data on care plan.................................passed
+And I should see intial status as New on CP header..........................passed
+When I enter title RejectedPatient..........................................passed
+And I select work in progress as no.........................................passed
+And I click on save button..................................................passed
+Then I should see success message...........................................passed
+And I should see patient data on care plan..................................passed
+And I should see patient data of draft status...............................passed
+And I should see status as Draft on CP header...............................passed
+When I click on reject button...............................................passed
+Then I should see rejected alert popup......................................passed
+And I click on proceed button...............................................passed
+And I should see rejected success message...................................passed
+When I click on title from care plan grid...................................passed
+Then I should see patient data on care plan.................................passed
+And I should see patient data as read only..................................passed
+And I should see reject status as Rejected on CP header.....................passed
+]]></system-out>
+</testcase>
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Verify reject status function using save &amp; close button" time="46.825995">
+<failure message="com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/OR_PatientGrid/OR_SearchPatient/OR_Search/Select_Filters/Select_Search'&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)&#13;&#10;&#9;at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:619)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)&#13;&#10;&#9;at patientGrid.SD_BOPMR.Search_Patient(SD_BOPMR.groovy:60)&#13;&#10;&#9;at ✽.I search Dermo505, Mac505 using global search(Include/features/PatientGrid/CarePlan/BOPMR.feature:199)&#13;&#10;Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable&#10;  (Session info: chrome=89.0.4389.82)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'&#10;System info: host: 'SLT339AMIR', ip: '192.168.43.175', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'&#10;Driver info: com.kms.katalon.selenium.driver.CChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.82, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\HAFIZ~1.AMI\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:49673}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 11af816548714342650ae43f04e4ec9c&#13;&#10;&#9;at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#13;&#10;&#9;at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#13;&#10;&#9;at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#13;&#10;&#9;at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#13;&#10;&#9;at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#13;&#10;&#9;at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#13;&#10;&#9;at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)&#13;&#10;&#9;at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#13;&#10;&#9;at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#13;&#10;&#9;at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)&#13;&#10;&#9;at com.sun.proxy.$Proxy23.click(Unknown Source)&#13;&#10;&#9;at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:68)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)&#13;&#10;&#9;at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:619)&#13;&#10;&#9;at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)&#13;&#10;&#9;at patientGrid.SD_BOPMR.Search_Patient(SD_BOPMR.groovy:60)&#13;&#10;&#9;at cucumber.runtime.Utils$1.call(Utils.java:26)&#13;&#10;&#9;at cucumber.runtime.Timeout.timeout(Timeout.java:16)&#13;&#10;&#9;at cucumber.runtime.Utils.invoke(Utils.java:20)&#13;&#10;&#9;at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:48)&#13;&#10;&#9;at cucumber.runtime.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:50)&#13;&#10;&#9;at cucumber.runner.TestStep.executeStep(TestStep.java:55)&#13;&#10;&#9;at cucumber.runner.TestStep.run(TestStep.java:42)&#13;&#10;&#9;at cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:53)&#13;&#10;&#9;at cucumber.runner.TestCase.run(TestCase.java:47)&#13;&#10;&#9;at cucumber.runner.Runner.runPickle(Runner.java:44)&#13;&#10;&#9;at cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:140)&#13;&#10;&#9;at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)&#13;&#10;&#9;at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)&#13;&#10;&#9;at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)&#13;&#10;&#9;at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)&#13;&#10;&#9;at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)&#13;&#10;&#9;at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)&#13;&#10;&#9;at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)&#13;&#10;&#9;at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)&#13;&#10;&#9;at org.junit.runners.ParentRunner.run(ParentRunner.java:413)&#13;&#10;&#9;at cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)&#13;&#10;&#9;at cucumber.api.junit.Cucumber.runChild(Cucumber.java:98)&#13;&#10;&#9;at cucumber.api.junit.Cucumber.runChild(Cucumber.java:55)&#13;&#10;&#9;at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)&#13;&#10;&#9;at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)&#13;&#10;&#9;at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)&#13;&#10;&#9;at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)&#13;&#10;&#9;at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)&#13;&#10;&#9;at cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:107)&#13;&#10;&#9;at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)&#13;&#10;&#9;at org.junit.runners.ParentRunner.run(ParentRunner.java:413)&#13;&#10;&#9;at org.junit.runners.Suite.runChild(Suite.java:128)&#13;&#10;&#9;at org.junit.runners.Suite.runChild(Suite.java:27)&#13;&#10;&#9;at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)&#13;&#10;&#9;at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)&#13;&#10;&#9;at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)&#13;&#10;&#9;at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)&#13;&#10;&#9;at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)&#13;&#10;&#9;at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)&#13;&#10;&#9;at org.junit.runners.ParentRunner.run(ParentRunner.java:413)&#13;&#10;&#9;at org.junit.runner.JUnitCore.run(JUnitCore.java:137)&#13;&#10;&#9;at org.junit.runner.JUnitCore.run(JUnitCore.java:115)&#13;&#10;&#9;at org.junit.runner.JUnitCore.run(JUnitCore.java:105)&#13;&#10;&#9;at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords$_runWithCucumberRunner_closure5.doCall(CucumberBuiltinKeywords.groovy:619)&#13;&#10;&#9;at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords$_runWithCucumberRunner_closure5.doCall(CucumberBuiltinKeywords.groovy)&#13;&#10;&#9;at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)&#13;&#10;&#9;at com.kms.katalon.core.keyword.internal.KeywordMain$runKeyword.call(Unknown Source)&#13;&#10;&#9;at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords.runWithCucumberRunner(CucumberBuiltinKeywords.groovy:616)&#13;&#10;&#9;at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords$runWithCucumberRunner$0.callStatic(Unknown Source)&#13;&#10;&#9;at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords.runWithCucumberRunner(CucumberBuiltinKeywords.groovy:716)&#13;&#10;&#9;at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords$runWithCucumberRunner.call(Unknown Source)&#13;&#10;&#9;at TC_RunwithRunner.run(TC_RunwithRunner:19)&#13;&#10;&#9;at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#13;&#10;&#9;at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#13;&#10;&#9;at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:398)&#13;&#10;&#9;at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:389)&#13;&#10;&#9;at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:368)&#13;&#10;&#9;at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:360)&#13;&#10;&#9;at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:255)&#13;&#10;&#9;at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)&#13;&#10;&#9;at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:105)&#13;&#10;&#9;at com.kms.katalon.core.main.TestCaseMain$runTestCase$0.call(Unknown Source)&#13;&#10;&#9;at TempTestCase1615562928148.run(TempTestCase1615562928148.groovy:25)&#13;&#10;"><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................failed
+Then I am on PWB............................................................skipped
+And I click on care plan tab................................................skipped
+And I click on add new care plan button.....................................skipped
+And I click on basedonpatientmedicalrecord..................................skipped
+Then I should see patient data on care plan.................................skipped
+And I should see intial status as New on CP header..........................skipped
+When I enter title RejectedPatient..........................................skipped
+And I select work in progress as no.........................................skipped
+And I click on save and close button........................................skipped
+Then I should see success message...........................................skipped
+When I click on title from care plan grid...................................skipped
+Then I should see patient data of draft status..............................skipped
+And I should see status as Draft on CP header...............................skipped
+When I click on reject button...............................................skipped
+Then I should see rejected alert popup......................................skipped
+And I click on proceed button...............................................skipped
+And I should see rejected success message...................................skipped
+When I click on title from care plan grid...................................skipped
+Then I should see patient data on care plan.................................skipped
+And I should see patient data as read only..................................skipped
+And I should see reject status as Rejected on CP header.....................skipped
+
+StackTrace:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/OR_PatientGrid/OR_SearchPatient/OR_Search/Select_Filters/Select_Search'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:619)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at patientGrid.SD_BOPMR.Search_Patient(SD_BOPMR.groovy:60)
+	at ✽.I search Dermo505, Mac505 using global search(Include/features/PatientGrid/CarePlan/BOPMR.feature:199)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=89.0.4389.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'SLT339AMIR', ip: '192.168.43.175', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.82, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\HAFIZ~1.AMI\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:49673}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 11af816548714342650ae43f04e4ec9c
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy23.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:68)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:619)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at patientGrid.SD_BOPMR.Search_Patient(SD_BOPMR.groovy:60)
+	at cucumber.runtime.Utils$1.call(Utils.java:26)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
+	at cucumber.runtime.Utils.invoke(Utils.java:20)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:48)
+	at cucumber.runtime.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:50)
+	at cucumber.runner.TestStep.executeStep(TestStep.java:55)
+	at cucumber.runner.TestStep.run(TestStep.java:42)
+	at cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:53)
+	at cucumber.runner.TestCase.run(TestCase.java:47)
+	at cucumber.runner.Runner.runPickle(Runner.java:44)
+	at cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:140)
+	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)
+	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)
+	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:98)
+	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:55)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:107)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords$_runWithCucumberRunner_closure5.doCall(CucumberBuiltinKeywords.groovy:619)
+	at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords$_runWithCucumberRunner_closure5.doCall(CucumberBuiltinKeywords.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordMain$runKeyword.call(Unknown Source)
+	at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords.runWithCucumberRunner(CucumberBuiltinKeywords.groovy:616)
+	at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords$runWithCucumberRunner$0.callStatic(Unknown Source)
+	at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords.runWithCucumberRunner(CucumberBuiltinKeywords.groovy:716)
+	at com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords$runWithCucumberRunner.call(Unknown Source)
+	at TC_RunwithRunner.run(TC_RunwithRunner:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:398)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:389)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:368)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:360)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:255)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:105)
+	at com.kms.katalon.core.main.TestCaseMain$runTestCase$0.call(Unknown Source)
+	at TempTestCase1615562928148.run(TempTestCase1615562928148.groovy:25)
+]]></failure>
+</testcase>
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Verify Export function while WIP status" time="64.971133">
+<system-out><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................passed
+Then I am on PWB............................................................passed
+And I click on care plan tab................................................passed
+And I click on add new care plan button.....................................passed
+And I click on basedonpatientmedicalrecord..................................passed
+Then I should see patient data on care plan.................................passed
+And I should see intial status as New on CP header..........................passed
+When I enter title WIPPatient...............................................passed
+And I click on save button..................................................passed
+Then I should see success message...........................................passed
+And I should see patient data on care plan..................................passed
+And I should see progress status as WIP on CP header........................passed
+And I should see export button..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Care Plan - Based On Patient Medical Record" name="Verify export function while draft status" time="80.643794">
+<system-out><![CDATA[Given I navigate to patient grid............................................passed
+When I search Dermo505, Mac505 using global search..........................passed
+Then I am on PWB............................................................passed
+And I click on care plan tab................................................passed
+And I click on add new care plan button.....................................passed
+And I click on basedonpatientmedicalrecord..................................passed
+Then I should see patient data on care plan.................................passed
+And I should see intial status as New on CP header..........................passed
+When I enter title DraftPatient.............................................passed
+And I select work in progress as no.........................................passed
+And I click on save button..................................................passed
+Then I should see success message...........................................passed
+And I should see patient data on care plan..................................passed
+And I should see patient data of draft status...............................passed
+And I should see status as Draft on CP header...............................passed
+And I should see export button..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

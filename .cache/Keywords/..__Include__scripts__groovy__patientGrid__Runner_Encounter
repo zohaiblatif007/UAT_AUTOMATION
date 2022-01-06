@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C693B72018FE67DEEC9C52C598BE89A5",
+  "keywordClasses": [
+    {
+      "name": "patientGrid.Runner_Encounter",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

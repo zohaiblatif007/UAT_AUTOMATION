@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C0A02EE225C1BAB08B886DBC0CE0CE99",
+  "keywordClasses": [
+    {
+      "name": "clinicalPackage.Runner_ClinicalSectionAdded",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "FDB20DD6BEACC92A988D914904784B43",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_RejectBySaveCloseBtn",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

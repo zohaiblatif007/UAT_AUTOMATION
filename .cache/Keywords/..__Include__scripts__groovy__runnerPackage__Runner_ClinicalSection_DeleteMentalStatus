@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "34212E464BF1A75820EEDFC58472A300",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_ClinicalSection_DeleteMentalStatus",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

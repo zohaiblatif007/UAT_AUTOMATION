@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SetPatientDemographicsPreference</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c85b0447-cc0e-4896-80e9-0cc93bd3eff7</testCaseGuid>
+</TestCaseEntity>

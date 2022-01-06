@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_EmailSendWhenEmailNotSet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eee30c70-973f-4774-a400-dc16563ad055</testCaseGuid>
+</TestCaseEntity>

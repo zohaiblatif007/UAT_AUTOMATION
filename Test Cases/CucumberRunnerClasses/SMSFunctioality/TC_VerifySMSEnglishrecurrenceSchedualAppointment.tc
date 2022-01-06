@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_VerifySMSEnglishrecurrenceSchedualAppointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f90d3445-55fd-450b-94b5-f7f888dd5489</testCaseGuid>
+</TestCaseEntity>

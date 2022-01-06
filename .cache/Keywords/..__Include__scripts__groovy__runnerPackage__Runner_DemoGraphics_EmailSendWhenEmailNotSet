@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "AD20AAF223F50BA83F24DC25084E4B34",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_DemoGraphics_EmailSendWhenEmailNotSet",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

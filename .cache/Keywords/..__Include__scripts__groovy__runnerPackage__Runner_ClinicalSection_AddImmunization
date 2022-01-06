@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3291B66568CD6CEDBC91FA02EF4B14AE",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_ClinicalSection_AddImmunization",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteCarePhysician</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9d2bfef-8c4b-4ecf-9af0-718985b6db0d</testCaseGuid>
+</TestCaseEntity>

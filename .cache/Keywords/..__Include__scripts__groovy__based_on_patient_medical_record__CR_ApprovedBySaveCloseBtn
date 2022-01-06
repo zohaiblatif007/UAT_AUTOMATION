@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9FFA37CDFD6ED886A974C67F167E1BAE",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_ApprovedBySaveCloseBtn",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

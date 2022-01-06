@@ -1,0 +1,5 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
+import carecoordination_leftfilters.CR_PatientProgramFilters
+
+CucumberKW.runWithCucumberRunner(CR_PatientProgramFilters.class)

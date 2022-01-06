@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "2F68A2A2EF07BE1C29FDA888E2DD9656",
+  "keywordClasses": [
+    {
+      "name": "careplan_blank.CR_ExportByDraftStatus",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

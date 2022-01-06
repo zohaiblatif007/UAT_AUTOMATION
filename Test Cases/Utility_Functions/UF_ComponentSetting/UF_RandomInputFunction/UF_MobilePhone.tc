@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UF_MobilePhone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96443bdb-ee69-446a-9cab-ea0650508de4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69bfae28-a733-42b6-a718-d5d27dc53f79</id>
+      <masked>false</masked>
+      <name>MobilePhone</name>
+   </variable>
+</TestCaseEntity>

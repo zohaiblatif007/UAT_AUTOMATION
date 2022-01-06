@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "DD78FF7DE13D7B4C83A78CE1AC9EF2D5",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_ClinicalSection_AddMedication",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "F6C1060FD3A4EDFC0A1662F4C589305C",
+  "keywordClasses": [
+    {
+      "name": "existing_careplans.CR_ExistingRejected",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteProcedureOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4c9bc85-9ab4-484d-8108-9216e9dece65</testCaseGuid>
+</TestCaseEntity>

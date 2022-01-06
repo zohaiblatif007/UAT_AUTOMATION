@@ -1,0 +1,7 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
+
+import runnerPackage.Runner_DemoGraphics_UploadPatientPic
+
+CucumberKW.runWithCucumberRunner(Runner_DemoGraphics_UploadPatientPic.class)
+

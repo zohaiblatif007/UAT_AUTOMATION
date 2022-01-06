@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PrintByWIPStatus_PatientCarePlan_Blank_CP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1dd1f93-4353-4721-aaf9-cd2b3087bbb6</testCaseGuid>
+</TestCaseEntity>

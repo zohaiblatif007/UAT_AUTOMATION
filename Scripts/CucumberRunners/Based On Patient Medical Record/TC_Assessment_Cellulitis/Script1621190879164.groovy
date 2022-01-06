@@ -1,0 +1,5 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
+import based_on_patient_medical_record.CR_Assessment_Cellulitis
+
+CucumberKW.runWithCucumberRunner(CR_Assessment_Cellulitis.class)

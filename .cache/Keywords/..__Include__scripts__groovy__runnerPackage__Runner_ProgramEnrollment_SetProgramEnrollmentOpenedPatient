@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3FBEE86F715CD145FBBFBE693333F08E",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_ProgramEnrollment_SetProgramEnrollmentOpenedPatient",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

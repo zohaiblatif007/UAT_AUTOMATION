@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UF_LastName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>681bc95e-6ab1-4094-9dd9-97168a3b9262</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7f65c0f1-7e40-4104-ba42-8ad5b6d6dc5b</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+</TestCaseEntity>

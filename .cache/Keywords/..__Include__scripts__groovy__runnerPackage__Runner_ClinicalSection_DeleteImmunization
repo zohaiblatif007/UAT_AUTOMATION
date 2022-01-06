@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "107E691E2B0B74C0FD02257FF27FF726",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_ClinicalSection_DeleteImmunization",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

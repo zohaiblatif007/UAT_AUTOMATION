@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteClinicalSection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4750e10-5a59-4d9f-bdea-aba117904b2b</testCaseGuid>
+</TestCaseEntity>

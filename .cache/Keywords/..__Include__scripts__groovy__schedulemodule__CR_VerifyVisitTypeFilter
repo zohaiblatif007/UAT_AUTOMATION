@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "32C4C7DF2127688EEFC75570851023E8",
+  "keywordClasses": [
+    {
+      "name": "schedulemodule.CR_VerifyVisitTypeFilter",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

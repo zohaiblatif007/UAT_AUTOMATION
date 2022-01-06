@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteEncounter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e479b20-dc76-49aa-ba24-c8145a646dcb</testCaseGuid>
+</TestCaseEntity>

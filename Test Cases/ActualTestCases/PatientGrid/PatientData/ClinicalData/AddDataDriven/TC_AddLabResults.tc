@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddLabResults</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ed3bdaf-2f89-49f5-b8e3-1bdc7b614a63</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62a32db0-cd32-42a0-b1c9-eb44ea6f30cf</id>
+      <masked>false</masked>
+      <name>temp</name>
+   </variable>
+</TestCaseEntity>

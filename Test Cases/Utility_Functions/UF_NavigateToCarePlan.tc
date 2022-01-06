@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UF_NavigateToCarePlan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e5b6fe0-8268-41f3-a5f0-a05ed08f35a7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>649bcddb-b0d4-4ee7-967e-4a39e6572714</id>
+      <masked>false</masked>
+      <name>Search_Patients</name>
+   </variable>
+</TestCaseEntity>

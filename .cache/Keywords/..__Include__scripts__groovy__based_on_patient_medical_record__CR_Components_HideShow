@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "DAFE833C0099459CA9F464636BB932FC",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_Components_HideShow",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

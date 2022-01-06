@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_EditAllergies</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30dda9e6-9393-4347-9e90-b5ea9a9185c9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>64f14923-7da2-4069-8ec5-dc85f592d248</id>
+      <masked>false</masked>
+      <name>alertText</name>
+   </variable>
+</TestCaseEntity>

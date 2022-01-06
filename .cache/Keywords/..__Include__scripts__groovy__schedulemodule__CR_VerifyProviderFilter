@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "07503D2A580D0B74AD429FF784F076B4",
+  "keywordClasses": [
+    {
+      "name": "schedulemodule.CR_VerifyProviderFilter",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

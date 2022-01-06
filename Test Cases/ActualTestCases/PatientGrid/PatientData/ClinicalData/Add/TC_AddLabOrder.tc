@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddLabOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2ccbf73-bed1-41cb-a72f-a945ba637c55</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38e81606-bbfd-44ed-aa16-2476e209d78d</id>
+      <masked>false</masked>
+      <name>temp</name>
+   </variable>
+</TestCaseEntity>

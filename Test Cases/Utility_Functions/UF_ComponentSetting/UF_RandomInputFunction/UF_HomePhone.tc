@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UF_HomePhone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f468ee0b-1181-4e8c-bcd9-31cdc96d0ce4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c858f2a8-cec8-4000-8c42-c54a06938719</id>
+      <masked>false</masked>
+      <name>HomePhone</name>
+   </variable>
+</TestCaseEntity>

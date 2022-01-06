@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "190EA0236C69105DBFCC039E99117131",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_CareTeam_CareManager_DeleteCareManager",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

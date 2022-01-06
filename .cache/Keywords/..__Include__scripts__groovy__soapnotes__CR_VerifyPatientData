@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "63930D046AD95DDB6096CAE9E736FE19",
+  "keywordClasses": [
+    {
+      "name": "soapnotes.CR_VerifyPatientData",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_VrifysendandResendafterEditMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b53f73c4-373c-4ba6-adf7-ef6d6028137a</testCaseGuid>
+</TestCaseEntity>

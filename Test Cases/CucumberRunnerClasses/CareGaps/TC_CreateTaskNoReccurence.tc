@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CreateTaskNoReccurence</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee714092-d05e-43d8-8b7e-cdf9a3f7475c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "801725575409C989B1AB4C89A16FF511",
+  "keywordClasses": [
+    {
+      "name": "careplan_blank.CR_PrintByWIPStatus_PatientCarePlan",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

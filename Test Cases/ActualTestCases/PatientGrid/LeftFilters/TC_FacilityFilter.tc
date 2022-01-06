@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_FacilityFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f12b8fe-6d75-4a56-b307-c4b196646762</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>51a40e39-26ec-40ad-9f0e-3fd33d5c3018</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+</TestCaseEntity>

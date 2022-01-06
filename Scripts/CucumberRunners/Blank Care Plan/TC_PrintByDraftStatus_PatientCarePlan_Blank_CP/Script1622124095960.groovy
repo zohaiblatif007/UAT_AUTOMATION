@@ -1,0 +1,5 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
+import careplan_blank.CR_PrintByDraftStatus_PatientCarePlan
+
+CucumberKW.runWithCucumberRunner(CR_PrintByDraftStatus_PatientCarePlan.class)

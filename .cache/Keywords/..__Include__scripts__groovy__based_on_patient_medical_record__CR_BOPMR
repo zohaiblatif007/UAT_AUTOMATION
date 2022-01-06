@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3DA795DBB02CDBDEB82619F12AFC06A8",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_BOPMR",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

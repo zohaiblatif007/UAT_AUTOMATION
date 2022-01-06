@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4D1A3F3298FB47AFB07C5195EAB6C40E",
+  "keywordClasses": [
+    {
+      "name": "clinicalPackage.Runner_VitalSign",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B2F1B77496A6457857DB4DA5E1E2867A",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_Assessment_Cellulitis",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

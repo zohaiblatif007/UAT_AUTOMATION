@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteCareManager</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9128918-6e8c-4f16-a0e0-9c08e001daa4</testCaseGuid>
+</TestCaseEntity>

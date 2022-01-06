@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SupperBill_Status_Incomplete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b470b5de-e3a0-49e2-98bc-c4099e428c20</testCaseGuid>
+</TestCaseEntity>

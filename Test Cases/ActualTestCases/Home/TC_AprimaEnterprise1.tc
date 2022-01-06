@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.Eprima Enterprise 1 Title should be there while landing on Login Page.
+2.CMR Tab should be there as well.</description>
+   <name>TC_AprimaEnterprise1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c193bec9-0b82-4bd6-8828-ccd56b3afd07</testCaseGuid>
+</TestCaseEntity>

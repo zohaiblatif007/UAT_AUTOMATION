@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "F8B213652ACE2F8AFD4159CA7B064C06",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_WIPBySaveBtn",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

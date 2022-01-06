@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UF_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7f7aa29-c7a1-486d-8850-7bc4b42cfe13</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6be4e86-2f35-4a5c-8749-6a75eb5b7e94</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b90c7e1b-b8db-4728-b1c8-2fb0c8a7a27a</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

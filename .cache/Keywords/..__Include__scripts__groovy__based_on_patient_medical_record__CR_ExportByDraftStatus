@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "120589E5610C310B79A50050A234F420",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_ExportByDraftStatus",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

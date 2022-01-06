@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E12216ECC22D4D8E11C930D91AFAD338",
+  "keywordClasses": [
+    {
+      "name": "superbill.CR_DeleteScheduleAppointment",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

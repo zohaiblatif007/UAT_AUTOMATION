@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteDocument</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42c9d6c4-83b8-481b-9afb-af53ced5d398</testCaseGuid>
+</TestCaseEntity>

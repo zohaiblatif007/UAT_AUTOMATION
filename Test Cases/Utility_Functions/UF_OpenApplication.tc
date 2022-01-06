@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UF_OpenApplication</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b6ac8fe-a179-4481-8026-27e1ddcb15c0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e169830-8b7b-46f3-8b4c-ff359831c73b</id>
+      <masked>false</masked>
+      <name>SiteUrl</name>
+   </variable>
+</TestCaseEntity>

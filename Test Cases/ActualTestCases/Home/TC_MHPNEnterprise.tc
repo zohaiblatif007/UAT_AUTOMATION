@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Eprima Enterprise 1 Title should be there while landing on Login Page.</description>
+   <name>TC_MHPNEnterprise</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72e302b0-438e-4717-bdbc-3d98d5053da2</testCaseGuid>
+</TestCaseEntity>

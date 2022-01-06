@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_RejectBySaveCloseBtn_Blank_CP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e47678fc-d1e4-4c27-aad4-7015e03c7093</testCaseGuid>
+</TestCaseEntity>

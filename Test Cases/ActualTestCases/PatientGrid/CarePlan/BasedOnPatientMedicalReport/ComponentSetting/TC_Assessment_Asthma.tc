@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Assessment_Asthma</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b0055f5-8e33-4550-99ee-548947776c44</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fe26904-2dd9-413a-9168-c44b59a8ec94</id>
+      <masked>false</masked>
+      <name>SearchPatient</name>
+   </variable>
+</TestCaseEntity>

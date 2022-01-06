@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_VerifySMSfromPatientGridAppointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6c71c76-c492-4cb0-96db-b81addf2df8c</testCaseGuid>
+</TestCaseEntity>

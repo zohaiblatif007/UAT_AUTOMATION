@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SearchByFirstAndLastName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdc28ddc-ac48-41e5-9442-12ffac4fed75</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37fa27f8-cd94-411f-9971-6fe4d865b549</id>
+      <masked>false</masked>
+      <name>SearchPatient</name>
+   </variable>
+</TestCaseEntity>

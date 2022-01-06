@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "BD7B54DBD84B8F613D76A3E5F04F6ABF",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_RejectBySaveBtn",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

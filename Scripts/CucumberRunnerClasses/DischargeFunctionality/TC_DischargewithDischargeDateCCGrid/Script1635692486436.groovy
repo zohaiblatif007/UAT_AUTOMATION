@@ -1,0 +1,7 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
+
+import runnerPackage.Runner_DischargeFunctionality_DischargewithDischargeDateCCGrid
+
+CucumberKW.runWithCucumberRunner(Runner_DischargeFunctionality_DischargewithDischargeDateCCGrid.class)
+

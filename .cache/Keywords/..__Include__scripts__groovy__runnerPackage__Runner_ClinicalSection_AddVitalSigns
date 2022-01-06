@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A1A25C3EE36D2BC2964429E4EBD5A041",
+  "keywordClasses": [
+    {
+      "name": "runnerPackage.Runner_ClinicalSection_AddVitalSigns",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

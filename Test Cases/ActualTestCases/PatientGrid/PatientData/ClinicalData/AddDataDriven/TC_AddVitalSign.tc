@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddVitalSign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>177662d5-5bd1-49e9-a61c-eb90044f8789</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69f85dc5-913d-46fb-887d-e2c211b27a51</id>
+      <masked>false</masked>
+      <name>temp</name>
+   </variable>
+</TestCaseEntity>

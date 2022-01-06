@@ -1,0 +1,7 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
+
+import runnerPackage.Runner_ClinicalSection_DeleteFunctionalStatus
+
+CucumberKW.runWithCucumberRunner(Runner_ClinicalSection_DeleteFunctionalStatus.class)
+

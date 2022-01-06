@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "88E9CE0EA0C3DD1F5F167760C4F01AE5",
+  "keywordClasses": [
+    {
+      "name": "schedulemodule.CR_ScheduleAppointment",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

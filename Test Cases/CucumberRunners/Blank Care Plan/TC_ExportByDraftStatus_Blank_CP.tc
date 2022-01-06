@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ExportByDraftStatus_Blank_CP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a15d2eef-0043-4fae-9897-8c8f1116b140</testCaseGuid>
+</TestCaseEntity>

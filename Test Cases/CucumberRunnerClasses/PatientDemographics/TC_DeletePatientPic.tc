@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeletePatientPic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>731fad13-0c39-4b5c-92e1-03e283a3b3b6</testCaseGuid>
+</TestCaseEntity>

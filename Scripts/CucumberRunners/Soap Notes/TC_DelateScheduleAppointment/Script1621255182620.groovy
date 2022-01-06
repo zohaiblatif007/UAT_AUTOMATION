@@ -1,0 +1,5 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
+import soapnotes.CR_DeleteScheduleAppointment
+
+CucumberKW.runWithCucumberRunner(CR_DeleteScheduleAppointment.class)

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alergies_deleted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3118835e-f1fe-4df4-8a70-333d7e38b8a3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>425de838-d462-4cb1-8ce8-b87300f045b4</id>
+      <masked>false</masked>
+      <name>alertText</name>
+   </variable>
+</TestCaseEntity>

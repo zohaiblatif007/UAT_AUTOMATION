@@ -1,0 +1,4 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import clinicalPackage.Runner_ClinicalSectionAdded
+
+CucumberKW.runWithCucumberRunner(Runner_ClinicalSectionAdded.class)

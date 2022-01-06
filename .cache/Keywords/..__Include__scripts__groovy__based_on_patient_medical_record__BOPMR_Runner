@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A5B9480B28A01B56559E8D7A47F5BA53",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.BOPMR_Runner",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

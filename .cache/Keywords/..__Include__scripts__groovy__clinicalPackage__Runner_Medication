@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "BC103848C3DFD2167F31920174F8DFE7",
+  "keywordClasses": [
+    {
+      "name": "clinicalPackage.Runner_Medication",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PrintByDraftStatus_ProvideCarePlan_Blank_CP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e232a233-fafe-4478-93e0-4d6898bf636f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PatientGrid_Enrollment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f08aa209-36ec-4596-82f3-dd0f714e673f</testCaseGuid>
+</TestCaseEntity>

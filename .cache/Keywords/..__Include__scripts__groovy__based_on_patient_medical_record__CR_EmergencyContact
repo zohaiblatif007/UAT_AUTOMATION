@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CB1B79CE4FF27DCFA2651BAD1B900B95",
+  "keywordClasses": [
+    {
+      "name": "based_on_patient_medical_record.CR_EmergencyContact",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

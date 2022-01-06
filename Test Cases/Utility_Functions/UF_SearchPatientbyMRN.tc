@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UF_SearchPatientbyMRN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08d968b6-d271-466c-9c8c-6c03545c31c3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13405bfc-f99b-4656-ab97-500761b38df2</id>
+      <masked>false</masked>
+      <name>Search_Patients</name>
+   </variable>
+</TestCaseEntity>

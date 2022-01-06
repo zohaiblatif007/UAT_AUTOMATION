@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D5E390DEBE37BB68B975FBAC7D5E3E1E",
+  "keywordClasses": [
+    {
+      "name": "schedulemodule.CR_DeleteScheduleAppointment_ScheduleModule",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

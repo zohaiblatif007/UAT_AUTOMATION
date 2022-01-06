@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_VerifyDataFromExcel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5c102fb-406b-47da-be27-0c4d1d45399c</testCaseGuid>
+</TestCaseEntity>
